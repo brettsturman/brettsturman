@@ -1,4 +1,4 @@
-### Hi, I'm Brett 👋
+### Hi, I'm Brett Sturman
 
 I work in financial services technology, with more than 15 years across banking, consulting and enterprise software. My focus is risk, asset-liability management (ALM), profitability and model risk management, and I've worked with institutions from community banks to Tier 1 banks.
 
@@ -12,4 +12,4 @@ This is where I keep personal modelling projects. I apply the same habits I use 
 
 **Tools:** Python · pandas · LightGBM · scikit-learn · Optuna
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/brett-sturman-5495503b/)
